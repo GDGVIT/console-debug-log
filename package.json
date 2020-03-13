@@ -1,0 +1,14 @@
+{
+  "name": "console-debug-log",
+  "version": "1.0.1",
+  "description": "Prints input to stdout only if running in debug mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pragati",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
