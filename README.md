@@ -25,11 +25,6 @@
 
 <br>
 
-# Contributors
-
-* [ Pragati ](https://github.com/Pragati1610)
-
-
 # Usage instructions
 Usage is very straightforward after installation.
 
@@ -43,6 +38,10 @@ const log = require('console-debug-log');
 log.debug('Sample Text');
 // will print out "Sample Text" to stdout if the DEBUG environment variable is set
 ```
+
+# Contributors
+
+* [ Pragati ](https://github.com/Pragati1610)
 
 <br>
 <br>
