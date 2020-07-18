@@ -40,6 +40,7 @@ log.debug('Sample Text');
 # Contributors
 
 * [ Pragati ](https://github.com/Pragati1610)
+* [ Amogh ](https://github.com/ATechnoHazard)
 
 ## License
 
