@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://dscvit.com">
 	<img src="https://user-images.githubusercontent.com/30529572/72455010-fb38d400-37e7-11ea-9c1e-8cdeb5f5906e.png" />
+</a>
 	<h2 align="center"> Debug logger </h2>
 	<h4 align="center"> Node.js tooling to log only in debugging environments <h4>
 </p>
@@ -9,9 +11,6 @@
 # Functionalities
 - [x] Log entries only when DEBUG environment variable is set.
 - [ ] Customizable environment variable name for debugging.
-
-<br>
-
 
 # Instructions to run
 
@@ -23,7 +22,6 @@
     - Navigate to your project directory. 
 	- Run `npm i -s console-debug-log`
 
-<br>
 
 # Usage instructions
 Usage is very straightforward after installation.
@@ -43,9 +41,10 @@ log.debug('Sample Text');
 
 * [ Pragati ](https://github.com/Pragati1610)
 
-<br>
-<br>
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <p align="center">
-	Made with :heart: by DSC VIT
+	Made with :heart: by <a href="https://dscvit.com">DSC VIT</a>
 </p>
